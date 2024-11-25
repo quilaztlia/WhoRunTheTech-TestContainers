@@ -30,7 +30,8 @@ https://testcontainers.com/
 https://dotnet.testcontainers.org/
 https://dotnet.testcontainers.org/modules/
 https://www.atomicjar.com/2023/09/state-of-local-development-and-testing-2023/
-https://www.thoughtworks.com/en-au/radar/languages-and-frameworks/testcontainers
+https://www.thoughtworks.com/en-au/radar/languages-and-frameworks/
+https://github.com/testcontainers/testcontainers-dotnet/tree/develop/examples/WeatherForecast
 
 ## TestContainers (videos):
 
@@ -38,7 +39,3 @@ https://www.youtube.com/watch?v=eFILbyaMI2A
 
 ## Docker :
 https://www.youtube.com/watch?v=8IRNC7qZBmk&t=11s
-
-
-##Meetup CraftsRecords - Devenez Tech Speaker :
-## https://www.meetup.com/fr-FR/craftsrecords/events/297445915
